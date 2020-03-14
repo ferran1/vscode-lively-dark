@@ -2,7 +2,7 @@
 
 - A dark-goldish theme UI for [Visual Studio Code](https://code.visualstudio.com/)
 
-![Screenshot](icon2.png)
+![Screenshot](icon.png)
 
 ## Installation
 

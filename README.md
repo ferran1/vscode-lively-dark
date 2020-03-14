@@ -6,11 +6,11 @@
 
 ## Installation
 
-Launch VS Code Quick Open (⌘+P), paste the following command, and press enter.  
-ext install lively-dark \
-Or install this theme from the extension panel (search for "github theme"). \
+Launch VS Code Quick Open (⌘+P) and paste the following command  
+`ext install lively-dark` \
+Or install this theme from the extension panel (search for "lively-dark"). \
 You can find this theme in the Visual Studio Code Marketplace.
 
 ## License
 
-MIT
+[MIT License](https://github.com/ferran1/vscode-lively-dark/blob/master/LICENSE)

@@ -49,7 +49,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#559bf8"
+        "foreground": "#B0E2FF"
       }
     },
     {
@@ -70,7 +70,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#e6b800"
+        "foreground": "#0099cc"
       }
     },
     {
@@ -78,19 +78,13 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "punctuation",
-        "meta.tag",
-        "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
-        "punctuation.definition.tag.html",
-        "punctuation.definition.tag.begin.html",
-        "punctuation.definition.tag.end.html",
         "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#FF5370"
       }
     },
     {
@@ -101,7 +95,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#0099cc"
       }
     },
     {
@@ -114,21 +108,21 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#9ACD32"
+        "foreground": "#FFCB6B"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#B0E2FF"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#B0E2FF"
       }
     },
     {
@@ -144,7 +138,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#B0E2FF"
       }
     },
     {
@@ -175,7 +169,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#9ACD32"
+        "foreground": "#FFCB6B"
       }
     },
     {
@@ -207,7 +201,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#fff"
       }
     },
     {
@@ -215,7 +209,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#0099CC"
       }
     },
     {
@@ -240,7 +234,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#e6b800"
+        "foreground": "#B0E2FF"
       }
     },
     {
@@ -279,7 +273,7 @@
       "name": "Deleted",
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#fff"
       }
     },
     {
@@ -328,7 +322,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#fff"
       }
     },
     {

@@ -3,7 +3,7 @@
   "displayName": "Lively Dark",
   "description": "A dark-goldish theme UI for Visual Studio Code",
   "publisher": "lively-dark",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/ferran1/vscode-lively-dark"

@@ -5,11 +5,10 @@
 ![Screenshot](icon.png)
 
 ## Installation
-
+You can find this theme in the Visual Studio Code Marketplace.
 Launch VS Code Quick Open (⌘+P) and paste the following command  
 `ext install lively-dark` \
 Or install this theme from the extension panel (search for "lively-dark"). \
-You can find this theme in the Visual Studio Code Marketplace.
 
 ## License
 
